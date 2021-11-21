@@ -1,0 +1,10 @@
+Petrov 15000
+Sidorov 26000
+Ivanov 10000
+Romanov 21000
+Kuznetsov 30000
+Voronov 20000
+Zavialov 19000
+Shiskin 18500
+Kolosov 13900
+Saveliev 31000
